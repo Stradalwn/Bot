@@ -1,0 +1,9 @@
+pyrogram
+pymongo
+tgcrypto
+aiohttp
+gdown
+wget
+requests
+Pillow
+hachoir
